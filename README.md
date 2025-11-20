@@ -12,7 +12,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 🛡️ TryHackMe Badge
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/6237756.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/KernelStryker.png" alt="Your Image Badge" />
 
 ---
 
