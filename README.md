@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=garg-kavya&label=Profile%20views&color=0e75b6&style=flat" alt="garg-kavya" />
 </p>
 
-<img align="right" alt="Hacking" width="380" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 👨‍💻 About Me
 - 🏛️ **IIIT Dharwad** Graduate (Computer Science).
