@@ -19,7 +19,7 @@
 - 🏆 **AIR 277** in GATE CS '24 | **AIR 401** in GATE DA '24.
 
 ### 🛡️ Security Profiles
-<img src="https://tryhackme-badges.s3.amazonaws.com/KernelStryker.png" alt="Your Image Badge" />
+
 
 ---
 
