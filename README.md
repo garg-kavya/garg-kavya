@@ -20,7 +20,7 @@
 
 ### 🛡️ Security Profiles
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/KernelStryker.png" alt="Your Image Badge" />
 ---
 
 ### 🌱 Currently Learning / Practicing
